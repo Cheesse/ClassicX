@@ -1,0 +1,92 @@
+# Unprepared projects
+cxcmap/
+cxgui/
+
+# Build-time folders
+build/
+out/
+msp430d/
+msp430/
+targetConfigs/
+
+# CCS junk
+.jxbrowser-data/
+.metadata/
+.launches/
+.settings/
+RemoteSystemsTempFiles/
+
+# Visual Studio junk
+.vs/
+*.VC.db
+
+# Other junk
+.trash/
+
+# Test files
+*.cw
+*.bin
+scripts/
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+cxlvlsim/hbeat.py
+cxlvlsim/include/lauxlib.h
+cxlvlsim/include/lua.h
+cxlvlsim/include/lua.hpp
+cxlvlsim/include/luaconf.h
+cxlvlsim/include/lualib.h
+cxlvlsim/include/zconf.h
+cxlvlsim/include/zlib.h
+mccp/guide.txt
